@@ -1,0 +1,287 @@
+2025-01-28 19:52:41,692 :INFO :test_checkboxes :**************Test_Checkboxes_001**************
+2025-01-28 19:54:09,132 :INFO :test_checkboxes :**************Test_Checkboxes_001 Finished**************
+2025-01-28 19:54:14,729 :INFO :test_colorDrp :**********TestColorDrp_001*********
+2025-01-28 19:54:14,768 :INFO :test_colorDrp :Clicked on color dropdown
+2025-01-28 19:54:14,797 :INFO :test_colorDrp :All colors are displayed
+2025-01-28 19:54:14,797 :INFO :test_colorDrp :**********TestColorDrp_001 Finished*********
+2025-01-28 19:54:21,100 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001**************
+2025-01-28 19:54:21,173 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_clicked sucessfully**************
+2025-01-28 19:54:21,248 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_selected country successfully**************
+2025-01-28 19:54:21,294 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_selected country successfully**************
+2025-01-28 19:54:21,294 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001 Finished**************
+2025-01-28 19:54:26,222 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-01-28 20:08:06,742 :INFO :test_animalDrp :**********TestAnimalDrp_001*********
+2025-01-28 20:08:06,790 :INFO :test_animalDrp :Clicked on animal dropdown
+2025-01-28 20:09:36,754 :INFO :test_animalDrp :**********TestAnimalDrp_001*********
+2025-01-28 20:10:42,794 :INFO :test_animalDrp :**********TestAnimalDrp_001*********
+2025-01-28 20:10:42,830 :INFO :test_animalDrp :Clicked on animal dropdown
+2025-01-28 20:13:25,433 :INFO :test_animalDrp :**********TestAnimalDrp_001*********
+2025-01-28 20:13:25,468 :INFO :test_animalDrp :Clicked on animal dropdown
+2025-01-28 20:18:12,981 :INFO :test_animalDrp :**********TestAnimalDrp_001*********
+2025-01-28 20:18:13,033 :INFO :test_animalDrp :Clicked on animal dropdown
+2025-01-28 20:18:13,093 :INFO :test_animalDrp :All animals are displayed
+2025-01-28 20:18:13,093 :INFO :test_animalDrp :**********TestAnimalDrp_001 Finished*********
+2025-01-28 22:11:21,641 :INFO :test_datepicker1 :**********TestDatepicker1_001*********
+2025-01-28 22:15:16,077 :INFO :test_datepicker1 :**********TestDatepicker1_001*********
+2025-01-28 22:15:27,949 :INFO :test_datepicker1 :Date is selected
+2025-01-28 22:15:27,949 :INFO :test_datepicker1 :**********TestDatepicker1_001 Finished*********
+2025-01-28 22:36:22,244 :INFO :test_datepicker2 :**********TestDatepicker2_001*********
+2025-01-28 22:39:01,560 :INFO :test_datepicker2 :**********TestDatepicker2_001*********
+2025-01-28 22:40:28,589 :INFO :test_datepicker2 :**********TestDatepicker2_001*********
+2025-01-28 22:40:28,839 :INFO :test_datepicker2 :Date is selected
+2025-01-28 22:40:28,839 :INFO :test_datepicker2 :**********TestDatepicker2_001 Finished*********
+2025-01-28 23:09:06,982 :INFO :test_datepicker3 :**********TestDatepicker3_001*********
+2025-01-28 23:11:43,367 :INFO :test_datepicker3 :**********TestDatepicker3_001*********
+2025-01-28 23:11:43,536 :INFO :test_datepicker3 :Date is selected
+2025-01-28 23:11:43,536 :INFO :test_datepicker3 :**********TestDatepicker3_001 Finished*********
+2025-01-28 23:35:50,692 :INFO :test_upload_single_file :File is uploaded
+2025-01-28 23:40:47,187 :INFO :test_upload_single_file :File is uploaded
+2025-01-28 23:40:52,742 :INFO :test_animalDrp :**********TestAnimalDrp_001*********
+2025-01-28 23:40:52,781 :INFO :test_animalDrp :Clicked on animal dropdown
+2025-01-28 23:40:52,837 :INFO :test_animalDrp :All animals are displayed
+2025-01-28 23:40:52,837 :INFO :test_animalDrp :**********TestAnimalDrp_001 Finished*********
+2025-01-28 23:40:56,725 :INFO :test_checkboxes :**************Test_Checkboxes_001**************
+2025-01-28 23:42:24,153 :INFO :test_checkboxes :**************Test_Checkboxes_001 Finished**************
+2025-01-28 23:42:28,934 :INFO :test_colorDrp :**********TestColorDrp_001*********
+2025-01-28 23:42:28,972 :INFO :test_colorDrp :Clicked on color dropdown
+2025-01-28 23:42:29,002 :INFO :test_colorDrp :All colors are displayed
+2025-01-28 23:42:29,002 :INFO :test_colorDrp :**********TestColorDrp_001 Finished*********
+2025-01-28 23:42:33,711 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001**************
+2025-01-28 23:42:33,795 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_clicked sucessfully**************
+2025-01-28 23:42:33,871 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_selected country successfully**************
+2025-01-28 23:42:33,916 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_selected country successfully**************
+2025-01-28 23:42:33,916 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001 Finished**************
+2025-01-28 23:42:40,260 :INFO :test_datepicker1 :**********TestDatepicker1_001*********
+2025-01-28 23:42:52,165 :INFO :test_datepicker1 :Date is selected
+2025-01-28 23:42:52,165 :INFO :test_datepicker1 :**********TestDatepicker1_001 Finished*********
+2025-01-28 23:42:56,582 :INFO :test_datepicker2 :**********TestDatepicker2_001*********
+2025-01-28 23:42:56,819 :INFO :test_datepicker2 :Date is selected
+2025-01-28 23:42:56,819 :INFO :test_datepicker2 :**********TestDatepicker2_001 Finished*********
+2025-01-28 23:43:03,260 :INFO :test_datepicker3 :**********TestDatepicker3_001*********
+2025-01-28 23:43:03,420 :INFO :test_datepicker3 :Date is selected
+2025-01-28 23:43:03,420 :INFO :test_datepicker3 :**********TestDatepicker3_001 Finished*********
+2025-01-28 23:43:08,053 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-01-29 00:09:47,513 :INFO :test_static_web_table :Static Web Table is displayed
+2025-01-29 00:09:47,513 :INFO :test_static_web_table :***********Test Static Web Table is passed***********
+2025-01-29 23:28:29,698 :INFO :test_upload_single_file :File is uploaded
+2025-01-29 23:28:35,046 :INFO :test_animalDrp :**********TestAnimalDrp_001*********
+2025-01-29 23:28:35,082 :INFO :test_animalDrp :Clicked on animal dropdown
+2025-01-29 23:28:35,177 :INFO :test_animalDrp :All animals are displayed
+2025-01-29 23:28:35,177 :INFO :test_animalDrp :**********TestAnimalDrp_001 Finished*********
+2025-01-29 23:28:40,634 :INFO :test_checkboxes :**************Test_Checkboxes_001**************
+2025-01-29 23:28:41,049 :INFO :test_checkboxes :**************Test_Checkboxes_001 Finished**************
+2025-01-29 23:28:46,767 :INFO :test_colorDrp :**********TestColorDrp_001*********
+2025-01-29 23:28:46,803 :INFO :test_colorDrp :Clicked on color dropdown
+2025-01-29 23:28:46,830 :INFO :test_colorDrp :All colors are displayed
+2025-01-29 23:28:46,830 :INFO :test_colorDrp :**********TestColorDrp_001 Finished*********
+2025-01-29 23:28:51,884 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001**************
+2025-01-29 23:28:51,946 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_clicked sucessfully**************
+2025-01-29 23:28:52,023 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_selected country successfully**************
+2025-01-29 23:28:52,066 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_selected country successfully**************
+2025-01-29 23:28:52,066 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001 Finished**************
+2025-01-29 23:28:57,028 :INFO :test_datepicker1 :**********TestDatepicker1_001*********
+2025-01-29 23:29:08,970 :INFO :test_datepicker1 :Date is selected
+2025-01-29 23:29:08,970 :INFO :test_datepicker1 :**********TestDatepicker1_001 Finished*********
+2025-01-29 23:29:13,900 :INFO :test_datepicker2 :**********TestDatepicker2_001*********
+2025-01-29 23:29:14,145 :INFO :test_datepicker2 :Date is selected
+2025-01-29 23:29:14,145 :INFO :test_datepicker2 :**********TestDatepicker2_001 Finished*********
+2025-01-29 23:29:20,446 :INFO :test_datepicker3 :**********TestDatepicker3_001*********
+2025-01-29 23:29:20,596 :INFO :test_datepicker3 :Date is selected
+2025-01-29 23:29:20,596 :INFO :test_datepicker3 :**********TestDatepicker3_001 Finished*********
+2025-01-29 23:29:26,729 :INFO :test_dynamictable :**********Testdynamictable_001********
+2025-01-29 23:29:32,900 :INFO :test_static_web_table :Static Web Table is displayed
+2025-01-29 23:29:32,901 :INFO :test_static_web_table :***********Test Static Web Table is passed***********
+2025-01-29 23:29:40,013 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-01-29 23:31:01,466 :INFO :test_dynamictable :**********Testdynamictable_001********
+2025-01-29 23:33:34,556 :INFO :test_dynamictable :**********Testdynamictable_001********
+2025-01-29 23:33:34,732 :INFO :test_dynamictable :Testdynamic table finished
+2025-01-30 00:06:06,398 :INFO :test_pagnitiontable :*********Test Pagnition table*******
+2025-01-30 00:06:06,558 :INFO :test_pagnitiontable :*************Test pagnition table finished*******
+2025-01-31 00:25:27,405 :INFO :test_alaertsandpopups :**********Test alertand popups statted*********
+2025-01-31 00:33:20,904 :INFO :test_alaertsandpopups :**********Test alertand popups statted*********
+2025-01-31 00:35:53,128 :INFO :test_alaertsandpopups :**********Test alertand popups statted*********
+2025-01-31 00:35:53,282 :INFO :test_alaertsandpopups :*********test finished*************
+2025-01-31 01:13:16,811 :INFO :test_newtab :*****Test New tab_001********
+2025-01-31 01:14:49,403 :INFO :test_newtab :*****Test New tab_001********
+2025-01-31 01:19:18,672 :INFO :test_newtab :*****Test New tab_001********
+2025-01-31 01:20:03,384 :INFO :test_newtab :*****Test New tab_001********
+2025-01-31 01:20:03,448 :INFO :test_newtab :**********Test finished*******
+2025-01-31 01:21:37,616 :INFO :test_newtab :*****Test New tab_001********
+2025-01-31 01:21:38,506 :INFO :test_newtab :**********Test finished*******
+2025-01-31 02:26:41,864 :INFO :test_popwindow :*******Test popupwindow_001*******
+2025-01-31 02:28:34,110 :INFO :test_popwindow :*******Test popupwindow_001*******
+2025-01-31 02:29:08,592 :INFO :test_popwindow :*******Test popupwindow_001*******
+2025-01-31 02:29:44,469 :INFO :test_popwindow :*******Test popupwindow_001*******
+2025-01-31 02:30:04,130 :INFO :test_popwindow :*******Test popupwindow_001*******
+2025-01-31 03:04:36,756 :INFO :test_mousehover :*******Test Mousehover_001********
+2025-01-31 03:27:28,679 :INFO :test_doubleclick :*********Test Doubleclick_001**********
+2025-01-31 03:27:28,970 :INFO :test_doubleclick :**********Test finished_doubleclick*******
+2025-01-31 03:28:11,230 :INFO :test_doubleclick :*********Test Doubleclick_001**********
+2025-01-31 03:28:16,541 :INFO :test_doubleclick :**********Test finished_doubleclick*******
+2025-01-31 03:51:11,194 :INFO :test_dragndrop :*****Test_drag and drop_001******
+2025-01-31 03:51:34,209 :INFO :test_dragndrop :*****Test_drag and drop_001******
+2025-01-31 03:52:04,174 :INFO :test_dragndrop :*****Test_drag and drop_001******
+2025-01-31 03:52:55,644 :INFO :test_dragndrop :*****Test_drag and drop_001******
+2025-01-31 04:20:53,109 :INFO :test_slidder :********Test slidder_001********
+2025-01-31 04:39:47,056 :INFO :test_scrollingdrp :********Testscrollingdrp_001*******
+2025-01-31 04:42:13,257 :INFO :test_scrollingdrp :********Testscrollingdrp_001*******
+2025-01-31 04:44:10,009 :INFO :test_scrollingdrp :********Testscrollingdrp_001*******
+2025-01-31 04:44:42,709 :INFO :test_scrollingdrp :********Testscrollingdrp_001*******
+2025-01-31 04:45:45,490 :INFO :test_alaertsandpopups :**********Test alertand popups statted*********
+2025-01-31 04:45:45,635 :INFO :test_alaertsandpopups :*********test finished*************
+2025-01-31 04:45:51,566 :INFO :test_doubleclick :*********Test Doubleclick_001**********
+2025-01-31 04:45:56,854 :INFO :test_doubleclick :**********Test finished_doubleclick*******
+2025-01-31 04:46:02,692 :INFO :test_pagnitiontable :*********Test Pagnition table*******
+2025-01-31 04:46:02,854 :INFO :test_pagnitiontable :*************Test pagnition table finished*******
+2025-01-31 04:46:17,744 :INFO :test_upload_single_file :File is uploaded
+2025-01-31 04:46:23,543 :INFO :test_animalDrp :**********TestAnimalDrp_001*********
+2025-01-31 04:46:23,581 :INFO :test_animalDrp :Clicked on animal dropdown
+2025-01-31 04:46:23,639 :INFO :test_animalDrp :All animals are displayed
+2025-01-31 04:46:23,639 :INFO :test_animalDrp :**********TestAnimalDrp_001 Finished*********
+2025-01-31 04:46:29,675 :INFO :test_checkboxes :**************Test_Checkboxes_001**************
+2025-01-31 04:46:30,087 :INFO :test_checkboxes :**************Test_Checkboxes_001 Finished**************
+2025-01-31 04:46:35,958 :INFO :test_colorDrp :**********TestColorDrp_001*********
+2025-01-31 04:46:36,000 :INFO :test_colorDrp :Clicked on color dropdown
+2025-01-31 04:46:36,030 :INFO :test_colorDrp :All colors are displayed
+2025-01-31 04:46:36,030 :INFO :test_colorDrp :**********TestColorDrp_001 Finished*********
+2025-01-31 04:46:41,741 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001**************
+2025-01-31 04:46:41,834 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_clicked sucessfully**************
+2025-01-31 04:46:41,910 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_selected country successfully**************
+2025-01-31 04:46:41,954 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_selected country successfully**************
+2025-01-31 04:46:41,954 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001 Finished**************
+2025-01-31 04:46:47,637 :INFO :test_datepicker1 :**********TestDatepicker1_001*********
+2025-01-31 04:46:59,319 :INFO :test_datepicker1 :Date is selected
+2025-01-31 04:46:59,320 :INFO :test_datepicker1 :**********TestDatepicker1_001 Finished*********
+2025-01-31 04:47:05,392 :INFO :test_datepicker2 :**********TestDatepicker2_001*********
+2025-01-31 04:47:05,629 :INFO :test_datepicker2 :Date is selected
+2025-01-31 04:47:05,629 :INFO :test_datepicker2 :**********TestDatepicker2_001 Finished*********
+2025-01-31 04:47:11,525 :INFO :test_datepicker3 :**********TestDatepicker3_001*********
+2025-01-31 04:47:11,683 :INFO :test_datepicker3 :Date is selected
+2025-01-31 04:47:11,683 :INFO :test_datepicker3 :**********TestDatepicker3_001 Finished*********
+2025-01-31 04:47:17,847 :INFO :test_dragndrop :*****Test_drag and drop_001******
+2025-01-31 04:47:39,240 :INFO :test_dynamictable :**********Testdynamictable_001********
+2025-01-31 04:47:39,409 :INFO :test_dynamictable :Testdynamic table finished
+2025-01-31 04:47:44,176 :INFO :test_mousehover :*******Test Mousehover_001********
+2025-01-31 04:47:50,541 :INFO :test_newtab :*****Test New tab_001********
+2025-01-31 04:47:51,871 :INFO :test_newtab :**********Test finished*******
+2025-01-31 04:47:56,927 :INFO :test_popwindow :*******Test popupwindow_001*******
+2025-01-31 04:48:06,761 :INFO :test_scrollingdrp :********Testscrollingdrp_001*******
+2025-01-31 04:48:18,399 :INFO :test_slidder :********Test slidder_001********
+2025-01-31 04:48:32,847 :INFO :test_static_web_table :Static Web Table is displayed
+2025-01-31 04:48:32,848 :INFO :test_static_web_table :***********Test Static Web Table is passed***********
+2025-01-31 04:48:38,096 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-02-01 02:20:07,925 :INFO :test_dragndrop :*****Test_drag and drop_001******
+2025-02-01 02:20:29,144 :INFO :test_slidder :********Test slidder_001********
+2025-02-01 02:20:43,624 :INFO :test_static_web_table :Static Web Table is displayed
+2025-02-01 02:20:43,625 :INFO :test_static_web_table :***********Test Static Web Table is passed***********
+2025-02-01 02:20:49,440 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-02-01 03:22:59,025 :INFO :test_dragndrop :*****Test_drag and drop_001******
+2025-02-01 03:23:22,023 :INFO :test_slidder :********Test slidder_001********
+2025-02-01 03:23:36,839 :INFO :test_static_web_table :Static Web Table is displayed
+2025-02-01 03:23:36,841 :INFO :test_static_web_table :***********Test Static Web Table is passed***********
+2025-02-01 03:23:43,373 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-02-01 03:27:13,893 :INFO :test_dragndrop :*****Test_drag and drop_001******
+2025-02-01 03:27:35,610 :INFO :test_slidder :********Test slidder_001********
+2025-02-01 03:27:49,445 :INFO :test_static_web_table :Static Web Table is displayed
+2025-02-01 03:27:49,446 :INFO :test_static_web_table :***********Test Static Web Table is passed***********
+2025-02-01 03:27:54,580 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-02-01 03:31:08,328 :INFO :test_alaertsandpopups :**********Test alertand popups statted*********
+2025-02-01 03:31:08,482 :INFO :test_alaertsandpopups :*********test finished*************
+2025-02-01 03:31:13,476 :INFO :test_doubleclick :*********Test Doubleclick_001**********
+2025-02-01 03:31:18,763 :INFO :test_doubleclick :**********Test finished_doubleclick*******
+2025-02-01 03:31:25,368 :INFO :test_pagnitiontable :*********Test Pagnition table*******
+2025-02-01 03:31:25,535 :INFO :test_pagnitiontable :*************Test pagnition table finished*******
+2025-02-01 03:31:41,395 :INFO :test_upload_single_file :File is uploaded
+2025-02-01 03:31:47,394 :INFO :test_animalDrp :**********TestAnimalDrp_001*********
+2025-02-01 03:31:47,435 :INFO :test_animalDrp :Clicked on animal dropdown
+2025-02-01 03:31:47,490 :INFO :test_animalDrp :All animals are displayed
+2025-02-01 03:31:47,490 :INFO :test_animalDrp :**********TestAnimalDrp_001 Finished*********
+2025-02-01 03:31:53,178 :INFO :test_checkboxes :**************Test_Checkboxes_001**************
+2025-02-01 03:31:53,609 :INFO :test_checkboxes :**************Test_Checkboxes_001 Finished**************
+2025-02-01 03:31:59,538 :INFO :test_colorDrp :**********TestColorDrp_001*********
+2025-02-01 03:31:59,582 :INFO :test_colorDrp :Clicked on color dropdown
+2025-02-01 03:31:59,614 :INFO :test_colorDrp :All colors are displayed
+2025-02-01 03:31:59,614 :INFO :test_colorDrp :**********TestColorDrp_001 Finished*********
+2025-02-01 03:32:06,610 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001**************
+2025-02-01 03:32:06,682 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_clicked sucessfully**************
+2025-02-01 03:32:06,760 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_selected country successfully**************
+2025-02-01 03:32:06,806 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_selected country successfully**************
+2025-02-01 03:32:06,806 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001 Finished**************
+2025-02-01 03:32:11,809 :INFO :test_datepicker1 :**********TestDatepicker1_001*********
+2025-02-01 03:32:23,822 :INFO :test_datepicker1 :Date is selected
+2025-02-01 03:32:23,823 :INFO :test_datepicker1 :**********TestDatepicker1_001 Finished*********
+2025-02-01 03:32:29,965 :INFO :test_datepicker2 :**********TestDatepicker2_001*********
+2025-02-01 03:32:30,260 :INFO :test_datepicker2 :Date is selected
+2025-02-01 03:32:30,260 :INFO :test_datepicker2 :**********TestDatepicker2_001 Finished*********
+2025-02-01 03:32:35,278 :INFO :test_datepicker3 :**********TestDatepicker3_001*********
+2025-02-01 03:32:35,433 :INFO :test_datepicker3 :Date is selected
+2025-02-01 03:32:35,433 :INFO :test_datepicker3 :**********TestDatepicker3_001 Finished*********
+2025-02-01 03:32:41,128 :INFO :test_dragndrop :*****Test_drag and drop_001******
+2025-02-01 03:33:02,720 :INFO :test_dynamictable :**********Testdynamictable_001********
+2025-02-01 03:33:02,903 :INFO :test_dynamictable :Testdynamic table finished
+2025-02-01 03:33:10,162 :INFO :test_mousehover :*******Test Mousehover_001********
+2025-02-01 03:35:43,571 :INFO :test_popwindow :*******Test popupwindow_001*******
+2025-02-01 03:35:53,811 :INFO :test_scrollingdrp :********Testscrollingdrp_001*******
+2025-02-01 03:36:05,728 :INFO :test_slidder :********Test slidder_001********
+2025-02-01 03:36:20,491 :INFO :test_static_web_table :Static Web Table is displayed
+2025-02-01 03:36:20,491 :INFO :test_static_web_table :***********Test Static Web Table is passed***********
+2025-02-01 03:36:26,460 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-02-01 03:46:01,082 :INFO :test_dragndrop :*****Test_drag and drop_001******
+2025-02-01 03:46:23,147 :INFO :test_slidder :********Test slidder_001********
+2025-02-01 03:46:36,516 :INFO :test_static_web_table :Static Web Table is displayed
+2025-02-01 03:46:36,516 :INFO :test_static_web_table :***********Test Static Web Table is passed***********
+2025-02-01 03:46:42,940 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-02-01 04:00:15,220 :INFO :test_alaertsandpopups :**********Test alertand popups statted*********
+2025-02-01 04:00:15,373 :INFO :test_alaertsandpopups :*********test finished*************
+2025-02-01 04:00:21,615 :INFO :test_doubleclick :*********Test Doubleclick_001**********
+2025-02-01 04:00:26,911 :INFO :test_doubleclick :**********Test finished_doubleclick*******
+2025-02-01 04:00:33,046 :INFO :test_pagnitiontable :*********Test Pagnition table*******
+2025-02-01 04:00:33,211 :INFO :test_pagnitiontable :*************Test pagnition table finished*******
+2025-02-01 04:00:49,088 :INFO :test_upload_single_file :File is uploaded
+2025-02-01 04:00:54,454 :INFO :test_animalDrp :**********TestAnimalDrp_001*********
+2025-02-01 04:00:54,493 :INFO :test_animalDrp :Clicked on animal dropdown
+2025-02-01 04:00:54,551 :INFO :test_animalDrp :All animals are displayed
+2025-02-01 04:00:54,551 :INFO :test_animalDrp :**********TestAnimalDrp_001 Finished*********
+2025-02-01 04:01:00,708 :INFO :test_checkboxes :**************Test_Checkboxes_001**************
+2025-02-01 04:01:01,147 :INFO :test_checkboxes :**************Test_Checkboxes_001 Finished**************
+2025-02-01 04:01:07,318 :INFO :test_colorDrp :**********TestColorDrp_001*********
+2025-02-01 04:01:07,356 :INFO :test_colorDrp :Clicked on color dropdown
+2025-02-01 04:01:07,387 :INFO :test_colorDrp :All colors are displayed
+2025-02-01 04:01:07,387 :INFO :test_colorDrp :**********TestColorDrp_001 Finished*********
+2025-02-01 04:01:13,186 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001**************
+2025-02-01 04:01:13,253 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_clicked sucessfully**************
+2025-02-01 04:01:13,330 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_selected country successfully**************
+2025-02-01 04:01:13,375 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_selected country successfully**************
+2025-02-01 04:01:13,375 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001 Finished**************
+2025-02-01 04:01:19,636 :INFO :test_datepicker1 :**********TestDatepicker1_001*********
+2025-02-01 04:01:31,660 :INFO :test_datepicker1 :Date is selected
+2025-02-01 04:01:31,660 :INFO :test_datepicker1 :**********TestDatepicker1_001 Finished*********
+2025-02-01 04:01:36,736 :INFO :test_datepicker2 :**********TestDatepicker2_001*********
+2025-02-01 04:01:37,005 :INFO :test_datepicker2 :Date is selected
+2025-02-01 04:01:37,005 :INFO :test_datepicker2 :**********TestDatepicker2_001 Finished*********
+2025-02-01 04:01:42,859 :INFO :test_datepicker3 :**********TestDatepicker3_001*********
+2025-02-01 04:01:43,010 :INFO :test_datepicker3 :Date is selected
+2025-02-01 04:01:43,010 :INFO :test_datepicker3 :**********TestDatepicker3_001 Finished*********
+2025-02-01 04:01:48,795 :INFO :test_dragndrop :*****Test_drag and drop_001******
+2025-02-01 04:02:10,876 :INFO :test_dynamictable :**********Testdynamictable_001********
+2025-02-01 04:02:11,057 :INFO :test_dynamictable :Testdynamic table finished
+2025-02-01 04:02:17,820 :INFO :test_mousehover :*******Test Mousehover_001********
+2025-02-01 04:07:29,459 :INFO :test_newtab :*****Test New tab_001********
+2025-02-01 04:07:30,727 :INFO :test_newtab :**********Test finished*******
+2025-02-01 04:07:37,381 :INFO :test_popwindow :*******Test popupwindow_001*******
+2025-02-01 04:07:46,995 :INFO :test_scrollingdrp :********Testscrollingdrp_001*******
+2025-02-01 04:07:58,606 :INFO :test_slidder :********Test slidder_001********
+2025-02-01 04:08:13,086 :INFO :test_static_web_table :Static Web Table is displayed
+2025-02-01 04:08:13,086 :INFO :test_static_web_table :***********Test Static Web Table is passed***********
+2025-02-01 04:08:19,527 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-02-01 20:59:35,282 :INFO :test_dragndrop :*****Test_drag and drop_001******
+2025-02-01 20:59:56,717 :INFO :test_slidder :********Test slidder_001********
+2025-02-01 21:00:11,357 :INFO :test_static_web_table :Static Web Table is displayed
+2025-02-01 21:00:11,358 :INFO :test_static_web_table :***********Test Static Web Table is passed***********
+2025-02-01 21:00:18,085 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-02-02 01:16:56,223 :INFO :test_alaertsandpopups :**********Test alertand popups statted*********
+2025-02-02 01:16:56,433 :INFO :test_alaertsandpopups :*********test finished*************
+2025-02-02 01:17:02,617 :INFO :test_doubleclick :*********Test Doubleclick_001**********
+2025-02-02 01:17:07,897 :INFO :test_doubleclick :**********Test finished_doubleclick*******
+2025-02-02 01:17:14,302 :INFO :test_pagnitiontable :*********Test Pagnition table*******
+2025-02-02 01:17:14,468 :INFO :test_pagnitiontable :*************Test pagnition table finished*******
